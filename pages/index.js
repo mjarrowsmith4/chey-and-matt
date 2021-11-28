@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>Chey &amp; Matt&apos;s Wedding</title>
         <meta name="description" content="Cheyenne &amp; Matthew's Wedding" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <main className={styles.main}>
