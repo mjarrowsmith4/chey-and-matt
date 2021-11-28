@@ -62,7 +62,7 @@ export default function Home() {
                 </li>
                 <li>
                   <span className="time">8pm</span>
-                  <span className="event">First dance &amp; cake cutting</span>
+                  <span className="event">First dance</span>
                 </li>
                 <li>
                   <span className="time">8:30pm</span>
