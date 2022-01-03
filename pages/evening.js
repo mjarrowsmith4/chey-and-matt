@@ -24,7 +24,7 @@ export default function Home() {
         </section>
 
         <div className="intro">
-          <h3>Please join us for our wedding day...</h3>
+          <h3>Please join us for our wedding evening...</h3>
           <p className="address">Curradine Barns<br />
           Church Ln,<br />
           Shrawley,<br />
